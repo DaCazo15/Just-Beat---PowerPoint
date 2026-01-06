@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="https://i.postimg.cc/kMTbTZQD/Just_Beats.jpg"></a>
+</p>
+
 # 🎮 Just Beats
 
 **Just Beats** es un prototipo de videojuego interactivo desarrollado íntegramente en **Microsoft PowerPoint**. Utiliza la lógica de "eventos al pasar el cursor" para simular colisiones, trampas y navegación, ofreciendo una experiencia jugable técnica y creativa sin necesidad de programación tradicional.
