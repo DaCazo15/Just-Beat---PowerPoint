@@ -98,7 +98,7 @@ Inspirado en la estética de los juegos rítmicos y minimalistas, este proyecto 
 ## ✍️ Autoría
 * **Desarrollador:** Ing. Daniel Cazorla
 * **Diseño Visual y Mecánica:** Ing. Daniel Cazorla
-* **Ubicación:** Nueva Esparta, Venezuela 🇻🇪
+* **Ubicación:** Nueva Esparta, Venezuela
 
 ---
 > **Nota:** Este proyecto demuestra el potencial de las herramientas de oficina para la creación de prototipos rápidos y lógica de videojuegos experimental.
